@@ -4,8 +4,8 @@
 
 ### Customer Ad-click Prediction 
 
-[MAchine Learning with Python](/sample_page)
-212963&amp;authkey=AElKid8sKg0pH-s&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<!--[Machine Learning with Python](/sample_page)-->
+<iframe src="https://onedrive.live.com/embed?cid=6C19BDFF54D91601&amp;resid=6C19BDFF54D91601%212963&amp;authkey=AElKid8sKg0pH-s&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <!--<img src="images/dummy_thumbnail.jpg?raw=true"/>-->
 
